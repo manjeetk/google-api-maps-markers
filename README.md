@@ -1,10 +1,10 @@
 # Google Maps API to display map with different types of markers for multiple locations
 
 ## Requirements
-- Create your own Google API key and update `YOUR_API_KEY` in the index.html
+- Create your own Google API key and update `YOUR_API_KEY` in the src/index.html
     - https://developers.google.com/maps/documentation/javascript/get-api-key
 
     - Use HTML, Javascript and CSS to create Map and markers
 
     - Different map locations with multiple markers
-    ![alt Screenshot](https://github.com/manjeetk/google-api-maps-markers/blob/main/images/GoogleMapsAPIMarkers.png =250x250)
+    ![alt Screenshot](https://github.com/manjeetk/google-api-maps-markers/blob/main/images/GoogleMapsAPIMarkers.png)
