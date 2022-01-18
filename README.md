@@ -7,4 +7,4 @@
     - Use HTML, Javascript and CSS to create Map and markers
 
     - Different map locations with multiple markers
-    ![alt Screenshot](https://github.com/manjeetk/google-api-maps-markers/blob/main/images/GoogleMapsAPIMarkers.png =250x250)
+    ![alt Screenshot](https://github.com/manjeetk/google-api-maps-markers/blob/main/images/GoogleMapsAPIMarkers.png)
